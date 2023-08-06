@@ -3,7 +3,7 @@ React Js <br/>
 Bootstrap
 
 # Project
-Projeto feito em react de uma sistema de controle de vendas para uma loja de roupas, onde é possível fazer a criação de um usuário para logar no sistema, adicionar produtos, efetuar as vendas e fazer o acompanhameto das vendas.
+Projeto feito em react de um sistema de controle de vendas para uma loja de roupas, onde é possível fazer a criação de um usuário para logar no sistema, adicionar produtos, efetuar as vendas e fazer o acompanhameto das vendas.
 
 # Instalação
 Antes de iniciar o a instalação é necessário ter o git instalado na maquina local <br/>
